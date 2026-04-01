@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Ravish Desai 👋
 
 ### Senior Teaching Assistant | Data Scientist | AI Researcher
