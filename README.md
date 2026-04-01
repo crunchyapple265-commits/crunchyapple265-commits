@@ -13,7 +13,7 @@ I am a highly analytical professional with a background in **Data Science and An
 
 ## 🔬 Research & Publications
 I am passionate about leveraging deep learning for healthcare. 
-* **Publication:** *An Optimized Deep Learning Model for Brain Tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning* (IEEE).
+[An Optimized Deep Learning Model for Brain Tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning](https://www.computer.org/csdl/video-library/video/2dOwY4RbzwY)
 
 ## 🎓 Experience Highlights
 * **Senior Teaching Assistant @ UCL:** Moderating undergraduate and postgraduate groups in Information Science and Programming.
