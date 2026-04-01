@@ -12,7 +12,6 @@ I am a highly analytical professional with a background in **Data Science and An
 * **Academic Support:** Extensive experience in moderating forums and providing academic guidance for modules like *Automated Software Engineering* and *Machine Learning Methods*.
 
 ## 🔬 Research & Publications
-I am passionate about leveraging deep learning for healthcare. 
 [An Optimized Deep Learning Model for Brain Tumor Detection in MRI Images Using EfficientNetB0 and ResNet50 with Transfer Learning](https://www.computer.org/csdl/video-library/video/2dOwY4RbzwY)
 
 ## 🎓 Experience Highlights
